@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Name : Myeong Seop Kim 
+Name : Myeong Seop Kim   
 Work : student in Yeungnam University
 
 <!--
